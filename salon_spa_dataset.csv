@@ -1,0 +1,51 @@
+CustomerID,CustomerName,Gender,SalonID,SalonName,BookingID,ServiceName,Category,BookingDate,ServiceDate,DurationMinutes,AmountSpent,Status,StaffName,Rating
+C001,Priya Sharma,F,SL001,Glow & Glamour Spa,BK001,Haircut,Hair Care,2025-08-01,2025-08-02,45,600,Completed,Anita Mehra,5
+C002,Rohan Verma,M,SL002,Elite Salon,BK002,Facial,Skin Care,2025-08-01,2025-08-03,60,1200,Completed,Sameer Khan,4
+C003,Sneha Gupta,F,SL001,Glow & Glamour Spa,BK003,Manicure,Nail Care,2025-08-02,2025-08-04,40,500,Completed,Ritika Das,5
+C004,Amit Singh,M,SL003,Style Studio,BK004,Massage,Body Spa,2025-08-02,2025-08-05,90,2500,Completed,Rajesh Patel,4
+C005,Neha Reddy,F,SL002,Elite Salon,BK005,Hair Coloring,Hair Care,2025-08-03,2025-08-06,120,3500,Completed,Anita Mehra,5
+C006,Vikram Rao,M,SL001,Glow & Glamour Spa,BK006,Pedicure,Nail Care,2025-08-03,2025-08-06,50,700,Completed,Ritika Das,4
+C007,Pooja Malhotra,F,SL003,Style Studio,BK007,Bleach,Skin Care,2025-08-04,2025-08-07,35,900,Completed,Sameer Khan,5
+C008,Aditya Nair,M,SL001,Glow & Glamour Spa,BK008,Head Massage,Body Spa,2025-08-04,2025-08-08,30,800,Completed,Rajesh Patel,4
+C009,Simran Kaur,F,SL002,Elite Salon,BK009,Bridal Makeup,Makeup,2025-08-05,2025-08-10,180,7000,Completed,Anita Mehra,5
+C010,Arjun Mehta,M,SL003,Style Studio,BK010,Haircut,Hair Care,2025-08-05,2025-08-07,40,500,Completed,Rajesh Patel,4
+C011,Shalini Bose,F,SL001,Glow & Glamour Spa,BK011,Hair Spa,Hair Care,2025-08-06,2025-08-08,75,1500,Completed,Ritika Das,5
+C012,Karan Yadav,M,SL002,Elite Salon,BK012,Shaving,Hair Care,2025-08-06,2025-08-07,25,300,Completed,Sameer Khan,4
+C013,Ananya Roy,F,SL003,Style Studio,BK013,Facial,Skin Care,2025-08-06,2025-08-09,60,1100,Completed,Anita Mehra,5
+C014,Deepak Kumar,M,SL001,Glow & Glamour Spa,BK014,Massage,Body Spa,2025-08-07,2025-08-11,80,2200,Completed,Rajesh Patel,4
+C015,Ritika Sen,F,SL002,Elite Salon,BK015,Haircut,Hair Care,2025-08-07,2025-08-09,45,600,Completed,Sameer Khan,5
+C016,Aayush Jain,M,SL003,Style Studio,BK016,Pedicure,Nail Care,2025-08-08,2025-08-10,50,650,Completed,Ritika Das,4
+C017,Maya Iyer,F,SL001,Glow & Glamour Spa,BK017,Bridal Makeup,Makeup,2025-08-08,2025-08-12,190,7200,Completed,Anita Mehra,5
+C018,Suraj Mishra,M,SL002,Elite Salon,BK018,Hair Coloring,Hair Care,2025-08-09,2025-08-13,120,3400,Completed,Sameer Khan,4
+C019,Swati Agarwal,F,SL003,Style Studio,BK019,Manicure,Nail Care,2025-08-09,2025-08-12,35,550,Completed,Ritika Das,5
+C020,Manish Kapoor,M,SL001,Glow & Glamour Spa,BK020,Head Massage,Body Spa,2025-08-10,2025-08-14,30,750,Completed,Rajesh Patel,4
+C021,Divya Chawla,F,SL002,Elite Salon,BK021,Facial,Skin Care,2025-08-10,2025-08-13,60,1150,Completed,Anita Mehra,5
+C022,Akhil Menon,M,SL003,Style Studio,BK022,Haircut,Hair Care,2025-08-11,2025-08-13,40,500,Completed,Rajesh Patel,4
+C023,Komal Deshmukh,F,SL001,Glow & Glamour Spa,BK023,Hair Spa,Hair Care,2025-08-11,2025-08-15,80,1600,Completed,Ritika Das,5
+C024,Siddharth Rathi,M,SL002,Elite Salon,BK024,Massage,Body Spa,2025-08-11,2025-08-15,85,2300,Completed,Sameer Khan,4
+C025,Isha Bansal,F,SL003,Style Studio,BK025,Bleach,Skin Care,2025-08-12,2025-08-16,40,950,Completed,Anita Mehra,5
+C026,Parth Tiwari,M,SL001,Glow & Glamour Spa,BK026,Shaving,Hair Care,2025-08-12,2025-08-14,20,250,Completed,Rajesh Patel,4
+C027,Rekha Nanda,F,SL002,Elite Salon,BK027,Bridal Makeup,Makeup,2025-08-13,2025-08-18,200,7500,Completed,Anita Mehra,5
+C028,Harsh Saxena,M,SL003,Style Studio,BK028,Haircut,Hair Care,2025-08-13,2025-08-15,35,500,Completed,Sameer Khan,4
+C029,Sanya Dutta,F,SL001,Glow & Glamour Spa,BK029,Pedicure,Nail Care,2025-08-13,2025-08-17,45,700,Completed,Ritika Das,5
+C030,Vishal Pandey,M,SL002,Elite Salon,BK030,Massage,Body Spa,2025-08-14,2025-08-18,90,2400,Completed,Rajesh Patel,4
+C031,Kavya Jha,F,SL003,Style Studio,BK031,Facial,Skin Care,2025-08-14,2025-08-17,65,1200,Completed,Anita Mehra,5
+C032,Raj Malhotra,M,SL001,Glow & Glamour Spa,BK032,Head Massage,Body Spa,2025-08-15,2025-08-19,30,800,Completed,Rajesh Patel,4
+C033,Alisha Khan,F,SL002,Elite Salon,BK033,Hair Coloring,Hair Care,2025-08-15,2025-08-20,110,3200,Completed,Sameer Khan,5
+C034,Nikhil Arora,M,SL003,Style Studio,BK034,Haircut,Hair Care,2025-08-15,2025-08-18,40,500,Completed,Rajesh Patel,4
+C035,Tanya Gill,F,SL001,Glow & Glamour Spa,BK035,Manicure,Nail Care,2025-08-16,2025-08-20,35,550,Completed,Ritika Das,5
+C036,Varun Chopra,M,SL002,Elite Salon,BK036,Shaving,Hair Care,2025-08-16,2025-08-17,20,300,Completed,Sameer Khan,4
+C037,Radhika Sethi,F,SL003,Style Studio,BK037,Bridal Makeup,Makeup,2025-08-17,2025-08-23,180,7200,Completed,Anita Mehra,5
+C038,Sameer Joshi,M,SL001,Glow & Glamour Spa,BK038,Massage,Body Spa,2025-08-17,2025-08-21,85,2350,Completed,Rajesh Patel,4
+C039,Priyanshi Agarwal,F,SL002,Elite Salon,BK039,Hair Spa,Hair Care,2025-08-18,2025-08-21,75,1550,Completed,Ritika Das,5
+C040,Devendra Rao,M,SL003,Style Studio,BK040,Haircut,Hair Care,2025-08-18,2025-08-20,40,550,Completed,Sameer Khan,4
+C041,Meera Pillai,F,SL001,Glow & Glamour Spa,BK041,Bleach,Skin Care,2025-08-19,2025-08-22,40,950,Completed,Anita Mehra,5
+C042,Saurabh Saxena,M,SL002,Elite Salon,BK042,Head Massage,Body Spa,2025-08-19,2025-08-23,35,850,Completed,Rajesh Patel,4
+C043,Shruti Banerjee,F,SL003,Style Studio,BK043,Manicure,Nail Care,2025-08-20,2025-08-24,40,600,Completed,Ritika Das,5
+C044,Ankur Sharma,M,SL001,Glow & Glamour Spa,BK044,Haircut,Hair Care,2025-08-20,2025-08-22,35,500,Completed,Sameer Khan,4
+C045,Priyanka Roy,F,SL002,Elite Salon,BK045,Facial,Skin Care,2025-08-21,2025-08-24,60,1250,Completed,Anita Mehra,5
+C046,Aryan Kulkarni,M,SL003,Style Studio,BK046,Massage,Body Spa,2025-08-21,2025-08-25,85,2450,Completed,Rajesh Patel,4
+C047,Shreya Bose,F,SL001,Glow & Glamour Spa,BK047,Bridal Makeup,Makeup,2025-08-22,2025-08-28,190,7400,Completed,Anita Mehra,5
+C048,Manoj Singh,M,SL002,Elite Salon,BK048,Hair Coloring,Hair Care,2025-08-22,2025-08-26,115,3300,Completed,Sameer Khan,4
+C049,Ira Kapoor,F,SL003,Style Studio,BK049,Pedicure,Nail Care,2025-08-23,2025-08-27,45,700,Completed,Ritika Das,5
+C050,Rahul Desai,M,SL001,Glow & Glamour Spa,BK050,Shaving,Hair Care,2025-08-23,2025-08-24,20,250,Completed,Rajesh Patel,4
